@@ -6,7 +6,7 @@ This repository contains the infrastructure and internal reports to create the
 [Go Vulnerability Database](https://vuln.go.dev).
 
 Check out [https://go.dev/security/vuln](https://go.dev/security/vuln) for more
-information about the Go vulnerability management system.
+information about the Go vulnerability management system. 
 
 ## Reporting a vulnerability or feedback
 
