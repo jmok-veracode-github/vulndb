@@ -8,7 +8,7 @@ This repository contains the infrastructure and internal reports to create the
 Check out [https://go.dev/security/vuln](https://go.dev/security/vuln) for more
 information about the Go vulnerability management system.
 
-## Reporting a vulnerability or feedback
+## Reporting a vulnerability or feedbackbbn
 
 [Click here](https://github.com/golang/vulndb/issues/new/choose) to report a
 public vulnerability in the Go ecosystem, or give feedback about the project.
